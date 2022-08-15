@@ -32,9 +32,9 @@ This repository is part of the data structure and algorithms (#EDA) teaching fra
 
 The students edit this section to add their names, Uniandes emails, and specify which project functionality of the project they will implement.
 
-Karen Andrea Fuentes Barreto , k.fuentesb@uniandes.edu.co , 202122467
-Laura Valentina Galeano Arenas , l.galeanoa@uniandes.edu.co , 202122470
-Maria Ortiz Polania , m.ortizp@uniandes.edu.co , 202021713
+Karen Andrea Fuentes Barreto, k.fuentesb@uniandes.edu.co , 202122467
+Laura Valentina Galeano Arenas, l.galeanoa@uniandes.edu.co , 202122470
+Maria Ortiz Polania, m.ortizp@uniandes.edu.co , 202021713
 
 [Back to top](#sample-mvc)
 
